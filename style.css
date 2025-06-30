@@ -1,0 +1,26 @@
+.container{
+    border-radius: 15px;
+}
+.container2{
+    height: 50vh;
+}
+.container3{
+    height: 70vh;
+}
+#id{
+    color:blue;
+    padding-bottom:20px;
+    font-size: 40px;
+}
+.hii{
+    color:black;
+}
+.container4{
+    height: 35vh;
+}
+.container5{
+    height:100vh;
+}
+.container6{
+    height: 40vh;
+}
